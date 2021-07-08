@@ -5,3 +5,4 @@ void main(void)
 	printf("This is my second commit");
 	printf("This is first line in feature_1");
 }
+/* EOC */

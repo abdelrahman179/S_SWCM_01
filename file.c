@@ -1,5 +1,6 @@
 #include <stdio.h>
 void main(void)
 {
-	printf("this is a test");
+	printf("This is my first commit");
+	printf("This is my second commit");
 }
